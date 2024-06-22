@@ -1,4 +1,5 @@
 # Cricket-Score-Extension
 It is a chrome Extension which shows you Live Cricket Score.
-![44821418](https://github.com/AkashParley/Cricket-Score-Extension/assets/109304070/28782a8e-e88d-4812-94dc-916dc4d2108d)
+![Screenshot from 2024-06-22 11-57-48](https://github.com/AkashParley/Cricket-Score-Extension/assets/109304070/e28ee404-af85-4185-a967-a92a586e8fdb)
+
 
